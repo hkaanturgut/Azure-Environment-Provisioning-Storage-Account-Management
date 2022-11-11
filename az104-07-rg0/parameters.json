@@ -1,0 +1,33 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "publicIPAddresses_vmpip1_name": {
+            "value": null
+        },
+        "virtualMachines_az104_07_vm0_name": {
+            "value": null
+        },
+        "virtualNetworks_az104_05_vnet0_name": {
+            "value": null
+        },
+        "networkInterfaces_az104_07_vm0865_name": {
+            "value": null
+        },
+        "publicIPAddresses_az104_07_vm0_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_az10407vm0ip883_name": {
+            "value": null
+        },
+        "networkSecurityGroups_az104_07_vm0_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_az10407vm0nsg912_name": {
+            "value": null
+        },
+        "networkSecurityGroups_az10407vm0nsg954_name": {
+            "value": null
+        }
+    }
+}
